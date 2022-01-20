@@ -17,3 +17,11 @@ font-family: 'Poppins', sans-serif;
 .navigation{
     height: 80px;
 }
+.stop-writing{
+    background-image: url('../images/background.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
